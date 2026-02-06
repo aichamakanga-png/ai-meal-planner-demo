@@ -1,0 +1,5 @@
+{
+  "name": "AI Meal Planner",
+  "description": "A smart 7-day meal planning application that generates personalized recipes and categorized shopping lists based on your fitness goals, dietary restrictions, and budget.",
+  "requestFramePermissions": []
+}
